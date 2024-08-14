@@ -11,7 +11,7 @@ async function convertHtmlToDocx(htmlContent, outputPath) {
         fs.writeFileSync(outputPath, docxContent);
         console.log("DOCX file created successfully!");
     } catch (error) {
-        console.error("Error creating DOCX file:", error);
+        console.error("Error creating DOCX file 3:", error);
     }
 }
 
