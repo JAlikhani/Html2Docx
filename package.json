@@ -1,0 +1,19 @@
+{
+  "name": "html2docx",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "h2d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "docxtemplater": "^3.49.2",
+    "fs": "^0.0.1-security",
+    "html-to-docx": "^1.8.0",
+    "path": "^0.12.7",
+    "pizzip": "^3.1.7"
+  }
+}
